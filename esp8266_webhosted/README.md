@@ -49,5 +49,7 @@ Connect your ESP8266 with LEDs or Relays to Digital Pins `D1`, `D2`, `D3` and `D
 
 Now you can control your LED or Relay with the assigned pins (D1, D2, D3, D4) throungh web. ⚠️ You sould connect GND to ESP if Relay is powered externally. If you are connecting LEDS for testing purpose connect the anode(positive) to each digital pins mentioned above and cathode of all to GND.
 
+### HAPPY HACKING 😊
+
 
 
