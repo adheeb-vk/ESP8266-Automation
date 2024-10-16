@@ -1,7 +1,7 @@
 You can use this codes for your automation projects.
 Make sure to add all your credentials properly on the place where it is commented.
 
-## ESP8266 Web Interface
+## Controlling ESP8266 using Web Interface
 
 In this project you can simply host a web interface on your esp8266's IP address and control the digit though web.
 
