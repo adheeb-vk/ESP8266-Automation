@@ -21,7 +21,9 @@ Edit the code `YOUR_SSID` with your Wifi name and `YOUR_PASSWORD` with your Wifi
 
 ### Step 3:
 You can make the IP static. ⚠️ Make sure no other device is using the same IP
+
 `local_IP` - IP of your desire (Change only the last three numbers of your router's IP)
+
 `gateway` - Your Wifi router's IP
 
 ### Step 4:
@@ -32,7 +34,7 @@ For selecting board: __Tools > Board > esp8266 > Generic ESP8266 Module__
 <img width="667" alt="Screenshot 2024-10-16 162916" src="https://github.com/user-attachments/assets/daf2c4d8-fa4d-4fb0-b533-fe7f9c74a744">
 
 ### Step 5:
-After uploading open serial monitor on Arduino IDE (Ctrl + Shift + M). If it is printing with `....` it is trying to connect with your network and After successful connection it will display over there on the serial monitor with the IP address.
+After uploading open serial monitor on Arduino IDE (Ctrl + Shift + M). If it is printing with `....` it is trying to connect with your network and After successful connection it will display `connected to Wifi` over there on the serial monitor with the IP address.
 
 <img width="188" alt="Screenshot 2024-10-16 171552" src="https://github.com/user-attachments/assets/a48a9a15-a9a9-4510-b6f4-447ec9b471f9">
  
